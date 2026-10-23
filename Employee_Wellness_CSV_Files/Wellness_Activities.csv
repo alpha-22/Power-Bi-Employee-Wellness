@@ -1,0 +1,201 @@
+﻿Activity ID,Employee ID,Activity Name,Activity Type,Activity Date,Duration (Minutes),Calories Burned,Participation Status,Wellness Points,Remarks
+5032,1017,Yoga Session,Yoga,2026-08-19,40,180,Completed,25,Guided group yoga
+5033,1017,Evening Walk,Fitness,2026-08-27,40,190,Completed,24,Completed after work
+5034,1018,Desk Stretch Break,Yoga,2026-09-28,10,35,Completed,10,Office stretch break
+5035,1018,Breathing Exercise,Meditation,2026-09-28,12,0,Completed,12,Guided breathing session
+5036,1019,Nutrition Workshop,Nutrition,2026-07-26,50,0,Completed,25,Healthy eating workshop
+5037,1019,Cycling,Fitness,2026-06-29,45,320,Completed,30,Outdoor cycling
+5038,1020,Desk Stretch Break,Yoga,2026-05-21,10,35,Completed,10,Office stretch break
+5039,1020,Gym Workout,Fitness,2026-07-12,60,420,Completed,35,Strength training
+5040,1021,Yoga Session,Yoga,2026-09-24,40,180,Completed,25,Guided group yoga
+5041,1021,Morning Walk,Fitness,2026-05-25,30,150,Completed,20,Completed before work
+5042,1022,Meditation,Meditation,2026-08-08,15,0,Completed,15,Quiet mindfulness session
+5043,1022,Meditation,Meditation,2026-08-27,15,0,Completed,15,Quiet mindfulness session
+5044,1023,Evening Walk,Fitness,2026-09-28,40,190,Completed,24,Completed after work
+5045,1023,Breathing Exercise,Meditation,2026-09-28,12,0,Completed,12,Guided breathing session
+5046,1024,Yoga Session,Yoga,2026-07-03,40,180,Completed,25,Guided group yoga
+5047,1024,Yoga Session,Yoga,2026-06-16,40,180,Completed,25,Guided group yoga
+5048,1025,Weekend Hike,Fitness,2026-09-01,90,520,Completed,45,Outdoor wellness activity
+5049,1025,Mindfulness Break,Meditation,2026-09-20,10,0,Completed,10,Short guided session
+5050,1026,Stretching,Yoga,2026-07-15,20,70,Completed,15,Mobility and stretching
+5051,1026,Meditation,Meditation,2026-07-11,15,0,Completed,15,Quiet mindfulness session
+5052,1027,Stretching,Yoga,2026-05-23,20,70,Completed,15,Mobility and stretching
+5053,1027,Breathing Exercise,Meditation,2026-05-16,12,0,Planned,12,Scheduled wellness activity
+5054,1028,Meditation,Meditation,2026-08-26,15,0,Completed,15,Quiet mindfulness session
+5055,1028,Mindfulness Break,Meditation,2026-05-26,10,0,Completed,10,Short guided session
+5056,1029,Stretching,Yoga,2026-05-22,20,70,Completed,15,Mobility and stretching
+5057,1029,Gym Workout,Fitness,2026-04-11,60,420,Completed,35,Strength training
+5058,1030,Cycling,Fitness,2026-08-21,45,320,Completed,30,Outdoor cycling
+5059,1030,Cycling,Fitness,2026-07-24,45,320,Completed,30,Outdoor cycling
+5060,1031,Gym Workout,Fitness,2026-09-12,60,420,Completed,35,Strength training
+5061,1031,Mindfulness Break,Meditation,2026-01-23,10,0,Completed,10,Short guided session
+5062,1032,Morning Walk,Fitness,2026-08-13,30,150,Completed,20,Completed before work
+5063,1032,Gym Workout,Fitness,2026-07-05,60,420,Completed,35,Strength training
+5064,1033,Stretching,Yoga,2026-02-21,20,70,Completed,15,Mobility and stretching
+5065,1033,Nutrition Workshop,Nutrition,2026-02-28,50,0,Completed,25,Healthy eating workshop
+5066,1034,Mindfulness Break,Meditation,2026-08-10,10,0,Completed,10,Short guided session
+5067,1034,Mindfulness Break,Meditation,2026-08-10,10,0,Completed,10,Short guided session
+5068,1035,Meditation,Meditation,2026-09-09,15,0,Completed,15,Quiet mindfulness session
+5069,1035,Stretching,Yoga,2026-09-23,20,70,Completed,15,Mobility and stretching
+5070,1036,Weekend Hike,Fitness,2026-09-23,90,520,Completed,45,Outdoor wellness activity
+5071,1036,Gym Workout,Fitness,2026-09-01,60,420,Completed,35,Strength training
+5072,1037,Desk Stretch Break,Yoga,2026-08-11,10,35,Completed,10,Office stretch break
+5073,1037,Stretching,Yoga,2026-08-22,20,70,Completed,15,Mobility and stretching
+5074,1038,Evening Walk,Fitness,2026-08-18,40,190,Completed,24,Completed after work
+5075,1038,Meditation,Meditation,2026-08-10,15,0,Planned,15,Scheduled wellness activity
+5076,1039,Cycling,Fitness,2026-03-27,45,320,Completed,30,Outdoor cycling
+5077,1039,Mindfulness Break,Meditation,2026-09-27,10,0,Completed,10,Short guided session
+5078,1040,Nutrition Workshop,Nutrition,2026-09-07,50,0,Completed,25,Healthy eating workshop
+5079,1040,Morning Walk,Fitness,2026-09-25,30,150,Completed,20,Completed before work
+5080,1041,Mindfulness Break,Meditation,2026-07-31,10,0,Completed,10,Short guided session
+5081,1041,Yoga Session,Yoga,2026-07-21,40,180,Planned,25,Scheduled wellness activity
+5082,1042,Nutrition Workshop,Nutrition,2026-08-29,50,0,Completed,25,Healthy eating workshop
+5083,1042,Yoga Session,Yoga,2026-09-05,40,180,Completed,25,Guided group yoga
+5084,1043,Evening Walk,Fitness,2026-03-04,40,190,Completed,24,Completed after work
+5085,1043,Weekend Hike,Fitness,2026-06-27,90,520,Completed,45,Outdoor wellness activity
+5086,1044,Nutrition Workshop,Nutrition,2026-07-15,50,0,Completed,25,Healthy eating workshop
+5087,1044,Breathing Exercise,Meditation,2026-06-02,12,0,Planned,12,Scheduled wellness activity
+5088,1045,Evening Walk,Fitness,2026-06-10,40,190,Completed,24,Completed after work
+5089,1045,Desk Stretch Break,Yoga,2026-08-30,10,35,Planned,10,Scheduled wellness activity
+5090,1046,Meditation,Meditation,2026-05-14,15,0,Completed,15,Quiet mindfulness session
+5091,1046,Weekend Hike,Fitness,2026-09-09,90,520,Planned,45,Scheduled wellness activity
+5092,1047,Weekend Hike,Fitness,2026-09-27,90,520,Completed,45,Outdoor wellness activity
+5093,1047,Desk Stretch Break,Yoga,2026-07-04,10,35,Planned,10,Scheduled wellness activity
+5094,1048,Mindfulness Break,Meditation,2026-09-07,10,0,Completed,10,Short guided session
+5095,1048,Nutrition Workshop,Nutrition,2026-08-15,50,0,Completed,25,Healthy eating workshop
+5096,1049,Nutrition Workshop,Nutrition,2026-07-08,50,0,Completed,25,Healthy eating workshop
+5097,1049,Desk Stretch Break,Yoga,2026-08-09,10,35,Completed,10,Office stretch break
+5098,1050,Gym Workout,Fitness,2026-07-25,60,420,Completed,35,Strength training
+5099,1050,Gym Workout,Fitness,2026-09-03,60,420,Completed,35,Strength training
+5100,1051,Desk Stretch Break,Yoga,2026-07-26,10,35,Completed,10,Office stretch break
+5101,1051,Nutrition Workshop,Nutrition,2026-09-16,50,0,Completed,25,Healthy eating workshop
+5102,1052,Desk Stretch Break,Yoga,2026-09-06,10,35,Completed,10,Office stretch break
+5103,1052,Desk Stretch Break,Yoga,2026-07-18,10,35,Completed,10,Office stretch break
+5104,1053,Breathing Exercise,Meditation,2026-01-09,12,0,Completed,12,Guided breathing session
+5105,1053,Gym Workout,Fitness,2026-03-20,60,420,Completed,35,Strength training
+5106,1054,Yoga Session,Yoga,2026-05-30,40,180,Completed,25,Guided group yoga
+5107,1054,Desk Stretch Break,Yoga,2026-05-02,10,35,Completed,10,Office stretch break
+5108,1055,Mindfulness Break,Meditation,2026-07-08,10,0,Completed,10,Short guided session
+5109,1055,Cycling,Fitness,2026-08-15,45,320,Completed,30,Outdoor cycling
+5110,1056,Desk Stretch Break,Yoga,2026-09-11,10,35,Completed,10,Office stretch break
+5111,1056,Desk Stretch Break,Yoga,2026-09-04,10,35,Completed,10,Office stretch break
+5112,1057,Breathing Exercise,Meditation,2026-09-23,12,0,Completed,12,Guided breathing session
+5113,1057,Morning Walk,Fitness,2026-09-03,30,150,Completed,20,Completed before work
+5114,1058,Meditation,Meditation,2026-09-13,15,0,Completed,15,Quiet mindfulness session
+5115,1058,Desk Stretch Break,Yoga,2026-09-14,10,35,Completed,10,Office stretch break
+5116,1059,Mindfulness Break,Meditation,2026-07-26,10,0,Completed,10,Short guided session
+5117,1059,Nutrition Workshop,Nutrition,2026-03-18,50,0,Planned,25,Scheduled wellness activity
+5118,1060,Yoga Session,Yoga,2026-06-09,40,180,Completed,25,Guided group yoga
+5119,1060,Yoga Session,Yoga,2026-04-02,40,180,Planned,25,Scheduled wellness activity
+5120,1061,Stretching,Yoga,2026-09-23,20,70,Completed,15,Mobility and stretching
+5121,1061,Cycling,Fitness,2026-01-14,45,320,Completed,30,Outdoor cycling
+5122,1062,Mindfulness Break,Meditation,2026-09-13,10,0,Completed,10,Short guided session
+5123,1062,Yoga Session,Yoga,2026-09-26,40,180,Completed,25,Guided group yoga
+5124,1063,Desk Stretch Break,Yoga,2026-05-02,10,35,Completed,10,Office stretch break
+5125,1063,Weekend Hike,Fitness,2026-05-05,90,520,Completed,45,Outdoor wellness activity
+5126,1064,Morning Walk,Fitness,2026-08-27,30,150,Completed,20,Completed before work
+5127,1064,Breathing Exercise,Meditation,2026-08-12,12,0,Completed,12,Guided breathing session
+5128,1065,Mindfulness Break,Meditation,2026-08-28,10,0,Completed,10,Short guided session
+5129,1065,Weekend Hike,Fitness,2026-09-10,90,520,Completed,45,Outdoor wellness activity
+5130,1066,Nutrition Workshop,Nutrition,2026-09-01,50,0,Completed,25,Healthy eating workshop
+5131,1066,Yoga Session,Yoga,2026-08-09,40,180,Completed,25,Guided group yoga
+5132,1067,Meditation,Meditation,2026-09-24,15,0,Completed,15,Quiet mindfulness session
+5133,1067,Desk Stretch Break,Yoga,2026-09-25,10,35,Planned,10,Scheduled wellness activity
+5134,1068,Nutrition Workshop,Nutrition,2026-08-19,50,0,Completed,25,Healthy eating workshop
+5135,1068,Gym Workout,Fitness,2026-07-22,60,420,Completed,35,Strength training
+5136,1069,Nutrition Workshop,Nutrition,2026-09-01,50,0,Completed,25,Healthy eating workshop
+5137,1069,Desk Stretch Break,Yoga,2026-06-08,10,35,Completed,10,Office stretch break
+5138,1070,Evening Walk,Fitness,2026-09-05,40,190,Completed,24,Completed after work
+5139,1070,Breathing Exercise,Meditation,2026-08-29,12,0,Planned,12,Scheduled wellness activity
+5140,1071,Stretching,Yoga,2026-05-03,20,70,Completed,15,Mobility and stretching
+5141,1071,Evening Walk,Fitness,2026-04-15,40,190,Planned,24,Scheduled wellness activity
+5142,1072,Meditation,Meditation,2026-09-02,15,0,Completed,15,Quiet mindfulness session
+5143,1072,Gym Workout,Fitness,2026-05-20,60,420,Completed,35,Strength training
+5144,1073,Morning Walk,Fitness,2026-06-11,30,150,Completed,20,Completed before work
+5145,1073,Cycling,Fitness,2026-08-25,45,320,Completed,30,Outdoor cycling
+5146,1074,Breathing Exercise,Meditation,2026-06-18,12,0,Completed,12,Guided breathing session
+5147,1074,Yoga Session,Yoga,2026-07-17,40,180,Completed,25,Guided group yoga
+5148,1075,Morning Walk,Fitness,2026-06-19,30,150,Completed,20,Completed before work
+5149,1075,Yoga Session,Yoga,2026-06-23,40,180,Completed,25,Guided group yoga
+5150,1076,Desk Stretch Break,Yoga,2026-08-29,10,35,Completed,10,Office stretch break
+5151,1076,Weekend Hike,Fitness,2026-08-24,90,520,Completed,45,Outdoor wellness activity
+5152,1077,Yoga Session,Yoga,2026-09-11,40,180,Completed,25,Guided group yoga
+5153,1077,Desk Stretch Break,Yoga,2026-08-25,10,35,Completed,10,Office stretch break
+5154,1078,Stretching,Yoga,2026-09-07,20,70,Completed,15,Mobility and stretching
+5155,1078,Gym Workout,Fitness,2026-09-06,60,420,Completed,35,Strength training
+5156,1079,Breathing Exercise,Meditation,2026-07-08,12,0,Completed,12,Guided breathing session
+5157,1079,Morning Walk,Fitness,2026-08-01,30,150,Completed,20,Completed before work
+5158,1080,Cycling,Fitness,2026-07-01,45,320,Completed,30,Outdoor cycling
+5159,1080,Desk Stretch Break,Yoga,2026-02-06,10,35,Planned,10,Scheduled wellness activity
+5160,1081,Yoga Session,Yoga,2026-05-10,40,180,Completed,25,Guided group yoga
+5161,1081,Stretching,Yoga,2026-02-27,20,70,Completed,15,Mobility and stretching
+5162,1082,Breathing Exercise,Meditation,2026-05-14,12,0,Completed,12,Guided breathing session
+5163,1082,Stretching,Yoga,2026-06-12,20,70,Completed,15,Mobility and stretching
+5164,1083,Stretching,Yoga,2026-07-03,20,70,Completed,15,Mobility and stretching
+5165,1083,Cycling,Fitness,2026-09-19,45,320,Planned,30,Scheduled wellness activity
+5166,1084,Weekend Hike,Fitness,2026-08-19,90,520,Completed,45,Outdoor wellness activity
+5167,1084,Morning Walk,Fitness,2026-08-22,30,150,Completed,20,Completed before work
+5168,1085,Mindfulness Break,Meditation,2026-07-24,10,0,Completed,10,Short guided session
+5169,1085,Stretching,Yoga,2026-09-06,20,70,Planned,15,Scheduled wellness activity
+5170,1086,Stretching,Yoga,2026-07-14,20,70,Completed,15,Mobility and stretching
+5171,1086,Morning Walk,Fitness,2026-05-31,30,150,Completed,20,Completed before work
+5172,1087,Weekend Hike,Fitness,2026-07-06,90,520,Completed,45,Outdoor wellness activity
+5173,1087,Yoga Session,Yoga,2026-08-19,40,180,Completed,25,Guided group yoga
+5174,1088,Breathing Exercise,Meditation,2026-06-18,12,0,Completed,12,Guided breathing session
+5175,1088,Stretching,Yoga,2026-08-26,20,70,Completed,15,Mobility and stretching
+5176,1089,Gym Workout,Fitness,2026-07-21,60,420,Completed,35,Strength training
+5177,1089,Breathing Exercise,Meditation,2026-01-16,12,0,Completed,12,Guided breathing session
+5178,1090,Nutrition Workshop,Nutrition,2026-06-03,50,0,Completed,25,Healthy eating workshop
+5179,1090,Yoga Session,Yoga,2026-08-15,40,180,Completed,25,Guided group yoga
+5180,1091,Nutrition Workshop,Nutrition,2026-06-08,50,0,Completed,25,Healthy eating workshop
+5181,1091,Yoga Session,Yoga,2026-05-30,40,180,Completed,25,Guided group yoga
+5182,1092,Morning Walk,Fitness,2026-08-04,30,150,Completed,20,Completed before work
+5183,1092,Evening Walk,Fitness,2026-07-17,40,190,Completed,24,Completed after work
+5184,1093,Gym Workout,Fitness,2026-09-28,60,420,Completed,35,Strength training
+5185,1093,Nutrition Workshop,Nutrition,2026-09-28,50,0,Completed,25,Healthy eating workshop
+5186,1094,Yoga Session,Yoga,2026-09-01,40,180,Completed,25,Guided group yoga
+5187,1094,Morning Walk,Fitness,2026-08-27,30,150,Completed,20,Completed before work
+5188,1095,Breathing Exercise,Meditation,2026-08-31,12,0,Completed,12,Guided breathing session
+5189,1095,Evening Walk,Fitness,2026-06-26,40,190,Completed,24,Completed after work
+5190,1096,Meditation,Meditation,2026-08-23,15,0,Completed,15,Quiet mindfulness session
+5191,1096,Weekend Hike,Fitness,2026-06-02,90,520,Completed,45,Outdoor wellness activity
+5192,1097,Mindfulness Break,Meditation,2026-07-06,10,0,Completed,10,Short guided session
+5193,1097,Cycling,Fitness,2026-06-04,45,320,Completed,30,Outdoor cycling
+5194,1098,Nutrition Workshop,Nutrition,2026-06-12,50,0,Completed,25,Healthy eating workshop
+5195,1098,Gym Workout,Fitness,2026-09-22,60,420,Completed,35,Strength training
+5196,1099,Meditation,Meditation,2026-05-23,15,0,Completed,15,Quiet mindfulness session
+5197,1099,Meditation,Meditation,2026-07-24,15,0,Completed,15,Quiet mindfulness session
+5198,1100,Desk Stretch Break,Yoga,2026-08-06,10,35,Completed,10,Office stretch break
+5199,1100,Weekend Hike,Fitness,2026-09-24,90,520,Completed,45,Outdoor wellness activity
+5200,1101,Evening Walk,Fitness,2026-09-14,40,190,Completed,24,Completed after work
+5201,1101,Yoga Session,Yoga,2026-09-10,40,180,Planned,25,Scheduled wellness activity
+5202,1102,Evening Walk,Fitness,2026-08-03,40,190,Completed,24,Completed after work
+5203,1102,Nutrition Workshop,Nutrition,2026-07-08,50,0,Completed,25,Healthy eating workshop
+5204,1103,Breathing Exercise,Meditation,2026-09-03,12,0,Completed,12,Guided breathing session
+5205,1103,Evening Walk,Fitness,2026-09-24,40,190,Completed,24,Completed after work
+5206,1104,Mindfulness Break,Meditation,2026-07-28,10,0,Completed,10,Short guided session
+5207,1104,Mindfulness Break,Meditation,2026-09-20,10,0,Planned,10,Scheduled wellness activity
+5208,1105,Gym Workout,Fitness,2026-05-29,60,420,Completed,35,Strength training
+5209,1105,Breathing Exercise,Meditation,2026-06-29,12,0,Completed,12,Guided breathing session
+5210,1106,Gym Workout,Fitness,2026-07-10,60,420,Completed,35,Strength training
+5211,1106,Cycling,Fitness,2026-08-08,45,320,Completed,30,Outdoor cycling
+5212,1107,Gym Workout,Fitness,2026-08-29,60,420,Completed,35,Strength training
+5213,1107,Stretching,Yoga,2026-09-24,20,70,Completed,15,Mobility and stretching
+5214,1108,Evening Walk,Fitness,2026-08-28,40,190,Completed,24,Completed after work
+5215,1108,Breathing Exercise,Meditation,2026-09-28,12,0,Completed,12,Guided breathing session
+5216,1109,Mindfulness Break,Meditation,2026-08-02,10,0,Completed,10,Short guided session
+5217,1109,Nutrition Workshop,Nutrition,2026-08-21,50,0,Completed,25,Healthy eating workshop
+5218,1110,Nutrition Workshop,Nutrition,2026-09-10,50,0,Completed,25,Healthy eating workshop
+5219,1110,Morning Walk,Fitness,2026-08-24,30,150,Completed,20,Completed before work
+5220,1111,Stretching,Yoga,2026-07-27,20,70,Completed,15,Mobility and stretching
+5221,1111,Weekend Hike,Fitness,2026-06-13,90,520,Completed,45,Outdoor wellness activity
+5222,1112,Meditation,Meditation,2026-08-28,15,0,Completed,15,Quiet mindfulness session
+5223,1112,Yoga Session,Yoga,2026-08-11,40,180,Completed,25,Guided group yoga
+5224,1113,Evening Walk,Fitness,2026-09-01,40,190,Completed,24,Completed after work
+5225,1113,Weekend Hike,Fitness,2026-07-30,90,520,Completed,45,Outdoor wellness activity
+5226,1114,Desk Stretch Break,Yoga,2026-09-05,10,35,Completed,10,Office stretch break
+5227,1114,Mindfulness Break,Meditation,2026-07-06,10,0,Completed,10,Short guided session
+5228,1115,Nutrition Workshop,Nutrition,2026-06-18,50,0,Completed,25,Healthy eating workshop
+5229,1115,Stretching,Yoga,2026-09-07,20,70,Planned,15,Scheduled wellness activity
+5230,1116,Evening Walk,Fitness,2026-08-07,40,190,Completed,24,Completed after work
+5231,1116,Desk Stretch Break,Yoga,2026-05-23,10,35,Completed,10,Office stretch break
